@@ -1,0 +1,8 @@
+allowCustomResources: true
+resources:
+  style:
+    - _assets/biosignal.css
+  script:
+    - _assets/biosignal.js
+interface:
+  favicon-src: _assets/logo.svg

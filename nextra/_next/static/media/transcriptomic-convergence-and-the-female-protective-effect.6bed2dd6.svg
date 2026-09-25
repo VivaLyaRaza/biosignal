@@ -1,0 +1,11 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" rx="18" fill="#CC8400"/>
+  <path d="M782 0 A18 18 0 0 1 800 18 L800 382 A18 18 0 0 1 782 400 L180 400 Z" fill="#F2A93B" fill-opacity="0.55"/>
+  <circle cx="105" cy="63" r="90" fill="#ffffff" fill-opacity="0.08"/>
+  <circle cx="495" cy="292" r="130" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="60" y="60" font-size="16" fill="#ffffff" fill-opacity="0.85" font-family="sans-serif" letter-spacing="1">
+    BIOSIGNAL · GENETICS
+  </text>
+  <text x="60" y="183" font-size="28" font-weight="700" fill="#ffffff" font-family="sans-serif">Әйел ағзасы миды аутизмнен</text>
+<text x="60" y="217" font-size="28" font-weight="700" fill="#ffffff" font-family="sans-serif">қалай қорғайды</text>
+</svg>
